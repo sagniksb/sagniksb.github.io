@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Sagnik Bhattacharya"
+author: "Sagnik Bhattacharya"
+description: "Hochschule Schmalkalden"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,9 +22,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
+  - {title: Mail, icon: envelope, url: "sagniksb04@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: LinkedIn, icon: rss, url: "www.linkedin.com/in/sagnik-b-68339533a"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
