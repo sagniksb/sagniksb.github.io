@@ -1,5 +1,8 @@
 ---
+title: Projecs
 layout: page
+permalink: "/about/"
+
 ---
 
 ## Github Pages
