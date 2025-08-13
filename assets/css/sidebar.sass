@@ -34,7 +34,23 @@ aside
 
 nav
   margin: 0 -2.25em
+// This is your SASS file, for example, main.sass
 
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.site-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+  
 nav a
   display: block
   font-weight: inherit
