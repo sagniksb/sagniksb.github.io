@@ -21,7 +21,7 @@ external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:sagniksb04@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/sagniksb"}
   - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/sagnik-b-68339533a"}
-  - {title: Medium, icon: book, url: "https://medium.com/@sagniksb04"}
+  - {title: Medium, icon: , url: "https://medium.com/@sagniksb04"}
 
 
 comments:
