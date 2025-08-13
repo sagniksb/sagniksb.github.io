@@ -22,9 +22,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "sagniksb04@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: LinkedIn, icon: linkedin, url: "www.linkedin.com/in/sagnik-b-68339533a"}
+  - {title: Mail, icon: envelope, url: "mailto:sagniksb04@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/sagniksb"}
+  - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/sagnik-b-68339533a"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
